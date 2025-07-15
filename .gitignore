@@ -1,0 +1,8 @@
+/.venv
+
+/data/registro.db
+
+__pycache__/
+*.pyc
+
+audit.log
